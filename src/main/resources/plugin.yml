@@ -1,0 +1,7 @@
+name: Userinfo
+version: '${project.version}'
+main: com.github.ringoame196.userinfo.Userinfo
+commands:
+  userinfo:
+    description: プレイヤーの情報を取得する
+    usage: /userinfo <プレイヤー>
