@@ -1,4 +1,6 @@
 # Userinfo
+[X投稿](https://x.com/ringoame196/status/1668630554261209088?s=20)
+
 プレイヤーの情報を出す
 
 <h2>コマンド</h2>
